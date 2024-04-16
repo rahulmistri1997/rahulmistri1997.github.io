@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rahulmistri.eu.org/</loc>
-     <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="https://rahulmistri.eu.org/"
-     />
-     <lastmod>2024-04-17</lastmod>
-     <changefreq>yearly</changefreq>
-     <priority>1.0</priority>
+    <loc>https://rahulmistri.eu.org</loc>
+    <lastmod>2024-04-16</lastmod>
   </url>
 </urlset>
